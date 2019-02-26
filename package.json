@@ -1,0 +1,16 @@
+{
+  "name": "locashare-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Server for Locashare, a location sharing site/app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Travis Horn (https://travishorn.com)",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^2.2.0",
+    "winston": "^3.2.1"
+  }
+}
