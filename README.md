@@ -2,7 +2,7 @@
 
 ## Server
 
-Server for Locashare, a location sharing site/app.
+Server for Locashare, a location sharing site/app. [View client repository](https://github.com/travishorn/locashare-client)
 
 ### Installation
 
